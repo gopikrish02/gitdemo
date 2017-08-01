@@ -1,2 +1,2 @@
-Create conflict in master change from master.
-Line 2 from master.
+Created conflict resolved.
+Line 2 for both common.
