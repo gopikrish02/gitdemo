@@ -1,1 +1,1 @@
-Creating conflict in master.
+Create conflict in master.
