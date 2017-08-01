@@ -1,1 +1,2 @@
-Create conflict in master.
+Created conflict in master from dev.
+Line 2 from dev.
