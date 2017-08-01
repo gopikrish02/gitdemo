@@ -1,2 +1,2 @@
 Created conflict resolved.
-Line 2 for both common.
+Line 2 for both comm.
